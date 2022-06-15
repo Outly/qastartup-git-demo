@@ -1,2 +1,2 @@
 qa course
-this project is the best
+this Project is the best
